@@ -204,7 +204,7 @@ This structure separates the client and server codebases for better organization
 
 ## Author
 
-- [@Shivam-Sharma-1](https://github.com/Shivam-Sharma-1)
+- [@Mr.Gru-1](https://github.com/grutechtop)
 
 Certainly! Here's the documentation section with relevant links:
 
